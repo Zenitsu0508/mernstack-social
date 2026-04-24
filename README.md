@@ -42,7 +42,6 @@ React combined with industry-tested, server-side technologies, such as Node, Exp
 
 Full-Stack React Projects will take you through the process of preparing the development environment for MERN stack-based web development, creating a basic skeleton app, and extending it to build six different web apps. You'll build apps for social media, classrooms, media streaming, online marketplaces with real-time bidding, and web-based games with virtual reality features. Throughout the book, you'll learn how MERN stack web development works, extend its capabilities for complex features, and gain actionable insights into creating MERN-based apps, along with exploring industry best practices to meet the ever-increasing demands of the real world.
 
-Things you'll learn in this book:
 
 - Extend a MERN-based application to build a variety of applications
 - Add real-time communication capabilities with Socket.IO
