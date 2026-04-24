@@ -49,9 +49,6 @@ Things you'll learn in this book:
 - Implement data visualization features for React applications using Victory
 - Develop media streaming applications using MongoDB GridFS
 - Improve SEO for your MERN apps by implementing server-side rendering with data
-- Implement user authentication and authorization using JSON web tokens
-- Set up and use React 360 to develop user interfaces with VR capabilities
-- Make your MERN stack applications reliable and scalable with industry best practices
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839215410) today!
 
